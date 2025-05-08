@@ -1,2 +1,2 @@
-# tweet-sentiment
-Polish Political Sentiment Analysis Based on Tweets
+# Polish Political Sentiment Analysis Based on Tweets
+This project focuses on analyzing the sentiment of Polish-language tweets related to presidential elections in Poland. Using natural language processing (NLP) techniques and machine learning models, the goal is to classify tweets by sentiment (positive, negative, or neutral) to gain insights into public opinion during the election period.
